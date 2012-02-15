@@ -1,0 +1,10 @@
+C:\项目\PandaClass\PandaClass\bin\Debug\PandaClass.dll
+C:\项目\PandaClass\PandaClass\bin\Debug\PandaClass.pdb
+C:\项目\PandaClass\PandaClass\obj\Debug\ResolveAssemblyReference.cache
+C:\项目\PandaClass\PandaClass\obj\Debug\PandaClass.dll
+C:\项目\PandaClass\PandaClass\obj\Debug\PandaClass.pdb
+E:\项目&源码&文档\个人项目\PandaClass\PandaClass\bin\Debug\PandaClass.dll
+E:\项目&源码&文档\个人项目\PandaClass\PandaClass\bin\Debug\PandaClass.pdb
+E:\项目&源码&文档\个人项目\PandaClass\PandaClass\obj\Debug\ResolveAssemblyReference.cache
+E:\项目&源码&文档\个人项目\PandaClass\PandaClass\obj\Debug\PandaClass.dll
+E:\项目&源码&文档\个人项目\PandaClass\PandaClass\obj\Debug\PandaClass.pdb
